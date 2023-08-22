@@ -1,0 +1,4 @@
+.pp-tour .thumb-explore img:hover{
+    transform: scale(.9);
+    border-radius: 20px;
+}
